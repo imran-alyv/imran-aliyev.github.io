@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Web Application](/sample_page)
+<img src="![image](https://user-images.githubusercontent.com/64093617/110867587-4bfe6c80-82c7-11eb-9e14-aa1bd3597f81.png)"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -27,9 +27,3 @@
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
