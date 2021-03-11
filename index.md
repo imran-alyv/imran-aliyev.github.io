@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19)
-<img src="images/covid12.png&raw=true"/>
+<img src="images/covid12.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
