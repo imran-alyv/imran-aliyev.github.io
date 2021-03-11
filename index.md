@@ -3,7 +3,7 @@
 ---
 
 ### Category Name 1 
-
+---
 [COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19)
 <img src="images/covid12.jpg?raw=true"/>
 
