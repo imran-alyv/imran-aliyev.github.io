@@ -8,12 +8,11 @@
 <img src="images/covid12.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Flowers Images Clustering](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
+<img src="images/flowers.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title]
 
 ---
 
