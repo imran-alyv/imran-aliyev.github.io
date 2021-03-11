@@ -5,6 +5,8 @@
 ### Category Name 1 
 ---
 [COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19)
+<br>
+<h2> Full-stack web application using Django, Rapid API and embed interavtive COVID-19 visualization from John Hopkins University(Our World in Data) </h2>
 <img src="images/covid12.jpg?raw=true"/>
 
 ---
