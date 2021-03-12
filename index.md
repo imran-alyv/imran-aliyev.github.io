@@ -16,9 +16,9 @@
 <img src="images/flowers.jpg?raw=true"/>
 
 ---
-[Hotel Chain Managmeent SYstem](https://github.com/orkhan-amrullayev/hotels_chain_management/)
+[Hotel Chain Management System](https://github.com/orkhan-amrullayev/hotels_chain_management/)
 <br>
-### Milton - Django Web App for a dummy hotels chain. Accessible for both users and managers.
+### Milton - Django Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
 <img src="images/hotel.jpg?raw=true"/>
 ---
 
