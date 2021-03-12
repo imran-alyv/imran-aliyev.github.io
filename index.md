@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects
 ---
 [COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19)
 <br>
