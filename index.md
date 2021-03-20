@@ -22,7 +22,6 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64093617/111855055-e80d2100-8922-11eb-8f7b-b76dccc1d999.gif)
 
-<img src="images/hotel.jpg?raw=true"/>
 
 ---
 [Hotel Chain Management System](https://github.com/orkhan-amrullayev/hotels_chain_management/)
