@@ -12,7 +12,7 @@
 <div align="center"> 
 <img src="images/covid12.jpg?raw=true"/>
 </div>
-
+<hr> <hr>
 ---
 
 [Flowers Images Clustering](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
