@@ -16,6 +16,15 @@
 <img src="images/flowers.jpg?raw=true"/>
 
 ---
+[Lane detection for Self-drivingcars without Deep Learning](https://github.com/orkhan-amrullayev/hotels_chain_management/)
+<br>
+### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path and slides right & left as it moves.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/64093617/111855055-e80d2100-8922-11eb-8f7b-b76dccc1d999.gif)
+
+<img src="images/hotel.jpg?raw=true"/>
+
+---
 [Hotel Chain Management System](https://github.com/orkhan-amrullayev/hotels_chain_management/)
 <br>
 ### Milton - Django Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
