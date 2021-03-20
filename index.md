@@ -28,7 +28,7 @@
 <br>
 ### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path and slides right & left as it moves.
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/64093617/111855055-e80d2100-8922-11eb-8f7b-b76dccc1d999.gif"/ >
+<img src="images/lane_detection.gif?raw=true"/ >
 </div>
 
 ---
