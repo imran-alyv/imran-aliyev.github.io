@@ -8,7 +8,7 @@
 <br>
 ### Full-stack web application using Django, Rapid API and embed interavtive COVID-19 visualization from John Hopkins University (Our World in Data).
 <div align="center"> 
-<img src="images/covid12.jpg?raw=true"/ >
+<img src="images/covid12.jpg?raw=true"/>
 </div>
 
 ---
@@ -16,7 +16,7 @@
 <br>
 ### Using Keras, VGG16 convolutional neural network clustering, 210 flower images are clustered into 10 clusters by their features. 
 <div align="center"> 
-<img src="images/flowers.jpg?raw=true"/ >
+<img src="images/flowers.jpg?raw=true"/>
 </div>
 
 ---
