@@ -12,7 +12,6 @@
 <div align="center"> 
 <img src="images/covid12.jpg?raw=true"/>
 </div>
-<br>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 ## Flowers Images Clustering
@@ -22,7 +21,6 @@
 <div align="center"> 
 <img src="images/flowers.jpg?raw=true"/>
 </div>
-<br>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 ## Lane detection for Self-drivingcars without Deep Learning 
@@ -32,7 +30,6 @@
 <div align="center"> 
 <img src="images/lane_detection.gif" /> 
 </div>
-<br>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 ## Hotel Chain Management System
@@ -42,6 +39,5 @@
 <div align="center"> 
 <img src="images/hotel.jpg?raw=true"/>
 </div>
-<br>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
