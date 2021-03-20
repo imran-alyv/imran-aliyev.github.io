@@ -6,7 +6,7 @@
 
 ---
 
-[<h1> COVID-19 Web Application </h1>](https://github.com/orkhan-amrullayev/covid19)
+<h1>[COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19) </h1>
 <br>
 ### Full-stack web application using Django, Rapid API and embed interavtive COVID-19 visualization from John Hopkins University (Our World in Data).
 <div align="center"> 
