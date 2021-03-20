@@ -45,13 +45,3 @@
 <br>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
