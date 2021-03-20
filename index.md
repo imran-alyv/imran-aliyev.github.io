@@ -6,7 +6,7 @@
 
 ---
 
-<h1>[COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19) </h1>
+<h1>[COVID-19 Web Application]</h1>(https://github.com/orkhan-amrullayev/covid19) 
 <br>
 ### Full-stack web application using Django, Rapid API and embed interavtive COVID-19 visualization from John Hopkins University (Our World in Data).
 <div align="center"> 
@@ -26,7 +26,7 @@
 
 [Lane detection for Self-drivingcars without Deep Learning](https://github.com/orkhan-amrullayev/lane_detection_without_deep_learning/)
 <br>
-### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path and slides right & left as it moves.
+### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path inside the lane and slides right or left as it moves.
 <div align="center"> 
 <img src="images/lane_detection.gif" /> 
 </div>
