@@ -5,13 +5,14 @@
 ### Recent Projects
 
 ---
-
-[COVID-19 Web Application](https://github.com/orkhan-amrullayev/covid19) 
+## COVID-19 Web Application
+[Link to github repository](https://github.com/orkhan-amrullayev/covid19) 
 <br>
 ### Full-stack web application using Django, Rapid API and embed interactive COVID-19 visualization from John Hopkins University (Our World in Data).
 <div align="center"> 
 <img src="images/covid12.jpg?raw=true"/>
 </div>
+<br>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 [Flowers Images Clustering](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
