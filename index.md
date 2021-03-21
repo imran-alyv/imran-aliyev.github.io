@@ -23,7 +23,7 @@
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-## Lane detection for Self-drivingcars without Deep Learning 
+## Lane detection for Self-driving cars without Deep Learning 
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/lane_detection_without_deep_learning/)
 <br>
 ### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path inside the lane and slides right or left as it moves.
