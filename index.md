@@ -41,3 +41,21 @@
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
+## Heart Disease Prediction
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/Heart_Disease_Prediction) 
+<br>
+### Given 13 different features, the model predicts whether a person has a heart disease or not. Model prediction accuracy on test set is more than 80%. Sklearn Machine Learning.
+<div align="center"> 
+<img src="images/heart_disease_prediction.jpg?raw=true"/>
+</div>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+## Credit Card Fraud Detection
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/Credit_Card_Fraud_Detection) 
+<br>
+### Dataset trained on includes more than 285,000 transactions over 2 days in Spetember, 2013. 30 features of each transaction are transformed with PCA due to confidentiality. Only original features are "Time" and "Amount". After training, model prediction accuracy on test set is more than 94%. Sklearn Machine Learning.
+<div align="center"> 
+<img src="images/credit_card_fraud_detection.jpg?raw=true"/>
+</div>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
