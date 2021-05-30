@@ -52,7 +52,7 @@
 ## Hotel Chain Management System
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/hotels_chain_management/)
 <br>
-### Milton - Django Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
+### Milton - Django Full-Stack Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
 <div align="center"> 
 <img src="images/hotel.jpg?raw=true"/>
 </div>
