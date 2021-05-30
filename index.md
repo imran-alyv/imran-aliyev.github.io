@@ -1,33 +1,33 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Machine Learning
+## Machine Learning
 
 ---
 
-## Flowers Image Clustering
+### Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
 <br>
-### Using Keras, VGG16 convolutional neural network clustering, 210 flower images are clustered into 10 clusters by their features. 
+#### Using Keras, VGG16 convolutional neural network clustering, 210 flower images are clustered into 10 clusters by their features. 
 <div align="center"> 
 <img src="images/flowers.jpg?raw=true"/>
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-## Heart Disease Prediction
+### Heart Disease Prediction
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Heart_Disease_Prediction) 
 <br>
-### Given 13 different features, the model predicts whether a person has a heart disease or not. Model prediction accuracy on test set is more than 80%. Sklearn Machine Learning.
+#### Given 13 different features, the model predicts whether a person has a heart disease or not. Model prediction accuracy on test set is more than 80%. Sklearn Machine Learning.
 <div align="center"> 
 <img src="images/heart_disease_prediction.jpg?raw=true"/>
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-## Credit Card Fraud Detection
+### Credit Card Fraud Detection
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Credit_Card_Fraud_Detection) 
 <br>
-### Dataset trained on includes more than 285,000 transactions over 2 days in Spetember, 2013. 30 features of each transaction are transformed with PCA due to confidentiality. Only original features are "Time" and "Amount". After training, model prediction accuracy on test set is more than 94%. Sklearn Machine Learning.
+#### Dataset trained on includes more than 285,000 transactions over 2 days in Spetember, 2013. 30 features of each transaction are transformed with PCA due to confidentiality. Only original features are "Time" and "Amount". After training, model prediction accuracy on test set is more than 94%. Sklearn Machine Learning.
 <div align="center"> 
 <img src="images/credit_card_fraud_detection.jpg?raw=true"/>
 </div>
@@ -35,31 +35,30 @@
 
 ---
 
-### Web Application (Full-stack, API)
+## Web Application (Full-stack, API)
 
 ---
 
-## COVID-19 Web Application
+### COVID-19 Web Application
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/covid19) 
 <br>
-### Full-stack web application using Django, Rapid API and embed interactive COVID-19 visualization from John Hopkins University (Our World in Data).
+#### Full-stack web application using Django, Rapid API and embed interactive COVID-19 visualization from John Hopkins University (Our World in Data).
 <div align="center"> 
 <img src="images/covid12.jpg?raw=true"/>
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-
-## Hotel Chain Management System
+### Hotel Chain Management System
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/hotels_chain_management/)
 <br>
-### Milton - Django Full-Stack Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
+#### Milton - Django Full-Stack Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
 <div align="center"> 
 <img src="images/hotel.jpg?raw=true"/>
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 ---
 
-### Computer Vision
+## Computer Vision
 
 ---
 
