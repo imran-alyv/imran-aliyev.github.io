@@ -10,7 +10,7 @@
 ### Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
 <br>
-#### Using Keras, VGG16 convolutional neural network clustering, 210 flower images are clustered into 10 clusters by their features. 
+#### Using Keras, VGG16 convolutional neural network clustering, hundreds of different kinds of flower images are clustered into 10 groups by their visual features. 
 <div align="center"> 
 <img src="images/flowers.jpg?raw=true"/>
 </div>
