@@ -28,7 +28,7 @@
 ### Credit Card Fraud Detection
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Credit_Card_Fraud_Detection) 
 <br>
-#### Dataset trained on includes more than 285,000 transactions over 2 days in Spetember, 2013. 30 features of each transaction are transformed with PCA due to confidentiality. Only original features are "Time" and "Amount". After training, model prediction accuracy on test set is more than 94%. Sklearn Machine Learning.
+#### Dataset trained on includes more than 285,000 transactions over 2 days in September, 2013. 30 features of each transaction are transformed with PCA due to confidentiality. Only original features are "Time" and "Amount". After training, model prediction accuracy on test set is more than 94%. Sklearn Machine Learning.
 <div align="center"> 
 <img src="images/credit_card_fraud_detection.jpg?raw=true"/>
 </div>
