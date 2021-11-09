@@ -34,6 +34,20 @@ This notebook will compare various data balancing techniques with powerful boost
 <br>
 <br>
 
+
+### Airline service satisfaction /  Part3 Modelling. Classification
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/ML1_algos/blob/main/3_modelling.ipynb)
+<br>
+#### Different models predict satisfaction level of customers based on their data
+Models used here are Logistic Regression, Decision Trees, Random Forest, AdaBoost. We will look at precision-recall curve and roc curve.
+<div align="center"> 
+<img src="![models_airline](https://user-images.githubusercontent.com/64093617/141020592-200c458e-5316-445d-9ed3-cf7f7b85a0f3.png) /> 
+</div>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+<br>
+<br>
+
 ### Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
 <br>
