@@ -2,10 +2,38 @@
 
 ---
 
+## Computer Vision
+
+
+---
+
+### Lane detection for Self-driving cars without Deep Learning 
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/lane_detection_without_deep_learning/)
+<br>
+#### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path inside the lane and slides right or left as it moves.
+<div align="center"> 
+<img src="images/lane_detection.gif" /> 
+</div>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+---
+
 ## Machine Learning
 
 
 ---
+### Fraud_detection_in_bank_transactions
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/fraud_detection_bank_transactions/)
+<br>
+#### Different models predict fraudulent bank transactions.
+
+As per description of the dataset, it contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+This notebook will compare various data balancing techniques with powerful boosting models. Models used here are Random Forest, XGBoost and LGB. We will look at precision-recall curve and roc curve.
+<div align="center"> 
+<img src="images/fraud_roc.png" /> 
+</div>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
 
 ### Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
@@ -25,19 +53,10 @@
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-### Credit Card Fraud Detection
-[Link to github repository of the project](https://github.com/orkhan-amrullayev/Credit_Card_Fraud_Detection) 
-<br>
-#### Dataset trained on includes more than 285,000 transactions over 2 days in September, 2013. 30 features of each transaction are transformed with PCA due to confidentiality. Only original features are "Time" and "Amount". After training, model prediction accuracy on test set is more than 94%. Sklearn Machine Learning.
-<div align="center"> 
-<img src="images/credit_card_fraud_detection.jpg?raw=true"/>
-</div>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 ---
 
 ## Web Application (Full-stack, API)
-
 
 ---
 
@@ -56,34 +75,5 @@
 #### Milton - Django Full-Stack Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
 <div align="center"> 
 <img src="images/hotel.jpg?raw=true"/>
-</div>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
----
-
-## Computer Vision
-
-
----
-
-### Lane detection for Self-driving cars without Deep Learning 
-[Link to github repository of the project](https://github.com/orkhan-amrullayev/lane_detection_without_deep_learning/)
-<br>
-### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path inside the lane and slides right or left as it moves.
-<div align="center"> 
-<img src="images/lane_detection.gif" /> 
-</div>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
-
-
-### Fraud_detection_in_bank_transactions
-[Link to github repository of the project](https://github.com/orkhan-amrullayev/fraud_detection_bank_transactions/)
-<br>
-### Different models predict fraudulent bank transactions.
-
-As per description of the dataset, it contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
-This notebook will compare various data balancing techniques with powerful boosting models. Models used here are Random Forest, XGBoost and LGB. We will look at precision-recall curve and roc curve.
-<div align="center"> 
-<img src="images/fraud_roc.png" /> 
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
