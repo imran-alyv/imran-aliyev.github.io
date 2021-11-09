@@ -3,7 +3,7 @@
 
 ---
 
-### Lane detection for Self-driving cars without Deep Learning 
+### 1. Lane detection for Self-driving cars without Deep Learning 
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/lane_detection_without_deep_learning/)
 <br>
 #### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path inside the lane and slides right or left as it moves.
@@ -20,7 +20,7 @@ Read the Readme.md to customize the code for your own videos.
 
 
 ---
-### Fraud detection in bank transactions / Binary classification
+### 1. Fraud detection in bank transactions / Binary classification
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/fraud_detection_bank_transactions/)
 <br>
 #### Different models predict fraudulent bank transactions.
@@ -35,7 +35,7 @@ This notebook will compare various data balancing techniques with powerful boost
 <br>
 
 
-### Airline service satisfaction /  Part3 Modelling. Classification
+### 2. Airline service satisfaction /  Part3 Modelling. Classification
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/ML1_algos/blob/main/3_modelling.ipynb)
 <br>
 #### Different models predict satisfaction level of customers based on their data
@@ -48,7 +48,7 @@ Models used here are Logistic Regression, Decision Trees, Random Forest, AdaBoos
 <br>
 <br>
 
-### Time Series Regression with Random Forest / Hyperparameters
+### 3. Time Series Regression with Random Forest / Hyperparameters
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/TimeSeries_bulldozer_sales)
 <br>
 #### Random forest regressor models predict the sales price of bulldozers according to the date and other independent variables
@@ -59,7 +59,7 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 <br>
 <br>
 
-### Flowers Image Clustering
+### 4. Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
 <br>
 #### Using Keras, VGG16 convolutional neural network clustering, hundreds of different kinds of flower images are clustered into 10 groups by their visual features. 
@@ -79,7 +79,7 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 
 ---
 
-### COVID-19 Web Application
+### 1. COVID-19 Web Application
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/covid19) 
 <br>
 #### Full-stack web application using Django, Rapid API and embed interactive COVID-19 visualization from John Hopkins University (Our World in Data).
@@ -91,7 +91,7 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 <br>
 <br>
 
-### Hotel Chain Management System
+### 2. Hotel Chain Management System
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/hotels_chain_management/)
 <br>
 #### Milton - Django Full-Stack Web App for a hotels chain. Used Python, SQLite, HTML, CSS. Accessible for both users and managers.
