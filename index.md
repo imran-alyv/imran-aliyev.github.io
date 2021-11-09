@@ -74,6 +74,9 @@ This notebook will compare various data balancing techniques with powerful boost
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
+<br>
+<br>
+
 ### Hotel Chain Management System
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/hotels_chain_management/)
 <br>
