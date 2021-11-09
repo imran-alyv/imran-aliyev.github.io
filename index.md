@@ -48,6 +48,17 @@ Models used here are Logistic Regression, Decision Trees, Random Forest, AdaBoos
 <br>
 <br>
 
+### Time Series Regression with Random Forest / Hyperparameters
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/TimeSeries_bulldozer_sales)
+<br>
+#### Random forest regressor models predict the sales price of bulldozers according to the date and other independent variables
+Error metrics: root mean square log error.
+End-to-end project with data cleaning and pre-processing, feature engineering, randomizedsearch and gridsearch cross validation.
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+<br>
+<br>
+
 ### Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
 <br>
