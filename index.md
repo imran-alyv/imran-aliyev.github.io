@@ -68,17 +68,6 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-<br>
-<br>
-
-### Heart Disease Prediction
-[Link to github repository of the project](https://github.com/orkhan-amrullayev/Heart_Disease_Prediction) 
-<br>
-#### Given 13 different features, the model predicts whether a person has a heart disease or not. Model prediction accuracy on test set is more than 80%. Sklearn Machine Learning.
-<div align="center"> 
-<img src="images/heart_disease_prediction.jpg?raw=true"/>
-</div>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
 ---
