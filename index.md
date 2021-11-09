@@ -43,6 +43,9 @@ This notebook will compare various data balancing techniques with powerful boost
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
+<br>
+<br>
+
 ### Heart Disease Prediction
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Heart_Disease_Prediction) 
 <br>
@@ -54,6 +57,9 @@ This notebook will compare various data balancing techniques with powerful boost
 
 
 ---
+
+<br>
+<br>
 
 ## Web Application (Full-stack, API)
 
