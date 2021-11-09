@@ -3,7 +3,10 @@
 ## - Machine Learning (Baging, Boosting, Convolutional Neural Network)
 ## - Web Scraping (Selenium)
 ## - Web Application (Django)
+<br>
+<br>
 
+---
 
 # Computer Vision
 
