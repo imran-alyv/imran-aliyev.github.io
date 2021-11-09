@@ -90,7 +90,7 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 ### 1. Flight Booking Automation with Selenium using Python
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/all_web_scraping_python_selenium/tree/main/flight_booking)
 <br>
-#### Web Scraping & Automation for Flight Booking.
+#### Web Scraping & Automation for Flight Booking for the website: www.cleartrip.com
 <div align="center"> 
 <img src="images/Flight-Booking.png"/>
 </div>
