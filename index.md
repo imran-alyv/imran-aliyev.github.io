@@ -1,8 +1,8 @@
 # Portfolio for:
-### - Computer Vision (OpenCV)
-### - Machine Learning (Bagging, Boosting, Convolutional Neural Network)
-### - Web Scraping (Selenium)
-### - Web Application (Django)
+#### - Computer Vision (OpenCV)
+#### - Machine Learning (Bagging, Boosting, Convolutional Neural Network)
+#### - Web Scraping (Selenium)
+#### - Web Application (Django)
 <br>
 <br>
 
