@@ -11,6 +11,7 @@
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/lane_detection_without_deep_learning/)
 <br>
 #### Using OpenCV (cv2) library, lanes are detected correctly, even the car does not follow the exact path inside the lane and slides right or left as it moves.
+Read the Readme.md to customize the code for your own videos.
 <div align="center"> 
 <img src="images/lane_detection.gif" /> 
 </div>
@@ -26,7 +27,6 @@
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/fraud_detection_bank_transactions/)
 <br>
 #### Different models predict fraudulent bank transactions.
-
 As per description of the dataset, it contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 This notebook will compare various data balancing techniques with powerful boosting models. Models used here are Random Forest, XGBoost and LGB. We will look at precision-recall curve and roc curve.
 <div align="center"> 
