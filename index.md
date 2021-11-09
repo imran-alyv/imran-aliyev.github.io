@@ -68,6 +68,23 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
+---
+
+<br>
+<br>
+
+## Web Scraping (Selenium)
+
+---
+
+### 1. Flight Booking Automation with Selenium using Python
+[Link to github repository of the project](https://github.com/orkhan-amrullayev/all_web_scraping_python_selenium/tree/main/flight_booking)
+<br>
+#### Web Scraping & Automation for Flight Booking.
+<div align="center"> 
+<img src="https://github.com/orkhan-amrullayev/all_web_scraping_python_selenium/tree/main/flight_booking/Flight-Booking.png"/>
+</div>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
 ---
