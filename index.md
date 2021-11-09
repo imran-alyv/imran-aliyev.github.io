@@ -1,8 +1,4 @@
-# Portfolio
-
----
-
-## Computer Vision
+# Computer Vision
 
 
 ---
@@ -16,10 +12,11 @@ Read the Readme.md to customize the code for your own videos.
 <img src="images/lane_detection.gif" /> 
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
+<br>
 ---
-
-## Machine Learning
+<br>
+<br>
+# Machine Learning
 
 
 ---
