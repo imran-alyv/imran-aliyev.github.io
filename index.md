@@ -41,7 +41,7 @@ This notebook will compare various data balancing techniques with powerful boost
 #### Different models predict satisfaction level of customers based on their data
 Models used here are Logistic Regression, Decision Trees, Random Forest, AdaBoost. We will look at precision-recall curve and roc curve.
 <div align="center"> 
-<img src="![models_airline](https://user-images.githubusercontent.com/64093617/141020592-200c458e-5316-445d-9ed3-cf7f7b85a0f3.png) /> 
+<img src="images/models_airline.png"/>
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
