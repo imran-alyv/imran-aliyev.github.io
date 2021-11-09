@@ -31,7 +31,8 @@ This notebook will compare various data balancing techniques with powerful boost
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-
+<br>
+<br>
 ### Flowers Image Clustering
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/Image_Clustering_Flowers)
 <br>
