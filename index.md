@@ -22,7 +22,7 @@
 
 
 ---
-### Fraud_detection_in_bank_transactions
+### Fraud detection in bank transactions / Binary classification
 [Link to github repository of the project](https://github.com/orkhan-amrullayev/fraud_detection_bank_transactions/)
 <br>
 #### Different models predict fraudulent bank transactions.
