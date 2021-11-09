@@ -82,7 +82,7 @@ End-to-end project with data cleaning and pre-processing, feature engineering, r
 <br>
 #### Web Scraping & Automation for Flight Booking.
 <div align="center"> 
-<img src="https://github.com/orkhan-amrullayev/all_web_scraping_python_selenium/tree/main/flight_booking/Flight-Booking.png"/>
+<img src="images/Flight-Booking.png"/>
 </div>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
